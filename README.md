@@ -26,7 +26,7 @@
 
 ---
 
-### 🧰 Tech Stack (with Icons)
+### 🧰 Tech Stack
 
 <p align="center">
   <!-- DevOps & Cloud -->
@@ -80,14 +80,6 @@
 
 
 
-### 🎮 Play a Game While You’re Here!
-<p align="center">
-  <a href="https://chromedino.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/aviralshukla12/aviralshukla12/main/assets/dino-thumbnail.gif" width="400" alt="Click to play Dino Game"/>
-  </a>
-</p>
-
----
 
 ### 🤝 Let’s Connect
 - LinkedIn: [Aviral Shukla](https://www.linkedin.com/in/aviral-shukla-)  
