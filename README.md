@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi, I'm Aviral Shukla 👋</h1>
 <p align="center"><b>Passionate Engineer • DevOps • Full‑Stack • GenAI</b></p>
 
@@ -96,7 +96,3 @@
 - 💼 **LinkedIn**: https://www.linkedin.com/in/aviral-shukla-
 
 
----
-
-<sub>💡 Tip: Keep pinning the most relevant projects. Update your README with milestones and WIP screenshots to show momentum.</sub>
-```
