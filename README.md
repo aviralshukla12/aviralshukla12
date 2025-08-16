@@ -3,11 +3,12 @@
 <p align="center"><b>Passionate Engineer • DevOps • Full‑Stack • GenAI</b></p>
 
 <p align="center">
-  <a href="mailto:avirals248@gmail.com"><img src="https://img.shields.io/badge/Email-YOUR_EMAIL-informational?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/aviral-shukla-"><img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:avirals248@gmail.com"><img src="https://img.shields.io/badge/Email-avirals248%40gmail.com-informational?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/aviral-shukla-"><img src="https://img.shields.io/badge/LinkedIn-aviral--shukla--blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/aviralshukla12"><img src="https://img.shields.io/badge/GitHub-aviralshukla12-181717?style=flat&logo=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=aviralshukla12&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
+
 
 ---
 
