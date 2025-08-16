@@ -3,8 +3,8 @@
 <p align="center"><b>Passionate Engineer • DevOps • Full‑Stack • GenAI</b></p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-YOUR_EMAIL-informational?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:avirals248@gmail.com"><img src="https://img.shields.io/badge/Email-YOUR_EMAIL-informational?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/aviral-shukla-"><img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/aviralshukla12"><img src="https://img.shields.io/badge/GitHub-aviralshukla12-181717?style=flat&logo=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=aviralshukla12&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
@@ -23,11 +23,11 @@
 ### 🧰 Tech Stack
 **DevOps & Cloud**
 
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Argo%20CD-FB7A24?logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white"/> <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white"/>  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white"/>
 
 **Back‑End**
 
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> 
 
 **Front‑End**
 
@@ -35,7 +35,7 @@
 
 **Databases & Data**
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/> 
 
 **GenAI & ML**
 
