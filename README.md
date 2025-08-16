@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi, I'm Aviral Shukla 👋</h1>
-<p align="center"><b>Passionate Engineer • DevOps • Full‑Stack • GenAI</b></p>
+<p align="center"><b>Passionate Engineer • DevOps • Full-Stack • GenAI</b></p>
 
 <p align="center">
   <a href="mailto:avirals248@gmail.com"><img src="https://img.shields.io/badge/Email-avirals248%40gmail.com-informational?style=flat&logo=gmail" /></a>
@@ -9,14 +8,20 @@
   <img src="https://komarev.com/ghpvc/?username=aviralshukla12&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
+---
+
+### ⌨️ Fun Typing Effect
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Fullstack+Developer;GenAI+Builder;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🚀 About Me
 - 💼 **DevOps-first mindset**: automate everything, ship confidently, observe relentlessly.
-- 🧩 **Full‑Stack**: build from pixel to production — React/Next.js → APIs (Node/Express/FastAPI) → DB → CI/CD.
+- 🧩 **Full-Stack**: build from pixel to production — React/Next.js → APIs (Node/Express/FastAPI) → DB → CI/CD.
 - 🤖 **GenAI**: LLM apps with LangChain/LlamaIndex, vector search, RAG, and prompt engineering.
-- ☁️ Love AWS, Kubernetes, containers, and cloud‑native patterns.
+- ☁️ Love AWS, Kubernetes, containers, and cloud-native patterns.
 - 🛠️ Pragmatic problem solver who enjoys clean code, docs, and teaching.
 
 ---
@@ -26,11 +31,11 @@
 
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white"/>  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white"/>
 
-**Back‑End**
+**Back-End**
 
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> 
 
-**Front‑End**
+**Front-End**
 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
 
@@ -84,16 +89,18 @@
 ---
 
 ### 📝 Highlights & Certs
-- 🥇 Built production‑style CI/CD with GitHub Actions and Argo CD
+- 🥇 Built production-style CI/CD with GitHub Actions and Argo CD
 - 📦 Dockerized microservices and deployed to Kubernetes (EKS)
-- 🔐 JWT‑based auth with Node/Express; email OTP flows
+- 🔐 JWT-based auth with Node/Express; email OTP flows
 - ☁️ IaC with Terraform modules (VPC, EKS, RDS)
 - 📚 GenAI: LangChain agents, prompt engineering, RAG
 
 ---
 
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/aviralshukla12/aviralshukla12/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ### 🤝 Let’s Connect
-
 - 💼 **LinkedIn**: https://www.linkedin.com/in/aviral-shukla-
-
-
