@@ -18,39 +18,56 @@
 ---
 
 ### 🚀 About Me
-- 💼 **DevOps-first mindset**: automate everything, ship confidently, observe relentlessly.
-- 🧩 **Full-Stack**: React/Next.js → APIs → Database → CI/CD.
-- 🤖 **GenAI**: LLM apps with LangChain, vector search, RAG, and prompt engineering.
-- ☁️ Passionate about AWS, Kubernetes, containers, and cloud-native design.
-- 🛠️ Clean code, clear docs, and sharing knowledge.
+- 💼 **DevOps-first mindset**: automate everything, ship confidently, observe relentlessly.  
+- 🧩 **Full-Stack**: React/Next.js → APIs → Database → CI/CD.  
+- 🤖 **GenAI**: LLM apps with LangChain, vector search, RAG, and prompt engineering.  
+- ☁️ Passionate about AWS, Kubernetes, containers, and cloud-native design.  
+- 🛠️ Clean code, clear docs, and sharing knowledge.  
 
 ---
 
-### 🧰 Tech Stack
-**DevOps & Cloud**  
-AWS · Docker · Kubernetes · Terraform · GitHub Actions · Ansible  
+### 🧰 Tech Stack (with Icons)
 
-**Back-End**  
-Node.js · Express · Python · FastAPI  
+<p align="center">
+  <!-- DevOps & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50" alt="Ansible"/>
+</p>
 
-**Front-End**  
-React · Next.js · TypeScript · Tailwind CSS  
+<p align="center">
+  <!-- Back-End -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
+</p>
 
-**Databases & Data**  
-PostgreSQL · MongoDB · Redis  
+<p align="center">
+  <!-- Front-End -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind"/>
+</p>
 
-**GenAI & ML**  
-OpenAI · Hugging Face · LangChain · PyTorch · Vector DBs (Pinecone, FAISS)  
+<p align="center">
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis"/>
+</p>
 
-**Tooling**  
-Linux · Bash · Git · VS Code · Postman  
-
----
-
-### 📦 Featured Projects
-- **[AI-driven Attendance Monitoring via Face Recognition](https://github.com/aviralshukla12/AI-driven-attendance-monitoring-system-using-face-recognition)**  
-- **[E-Commerce DevOps Setup](https://github.com/aviralshukla12/E-commerce-DevOps-Project)**  
-- **[GenAI RAG Starter Kit](https://github.com/aviralshukla12/GenAI-RAG-Starter)**  
+<p align="center">
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+</p>
 
 ---
 
@@ -61,43 +78,18 @@ Linux · Bash · Git · VS Code · Postman
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralshukla12&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-### 🧪 What I’m Building Right Now
-- GitOps pipeline: Terraform → EKS → Argo CD → progressive delivery  
-- RAG service with vector DB + function-calling tools  
-- Observability stack: OpenTelemetry, Prometheus, Grafana  
-
----
-
-### 📝 Highlights & Certs
-- CI/CD with GitHub Actions & Argo CD  
-- Dockerized microservices deployed to EKS  
-- JWT-based auth with Node/Express, OTP flows  
-- IaC via Terraform modules (VPC, EKS, RDS)  
-- GenAI: LangChain agents, prompts, RAG  
-
----
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/aviralshukla12/aviralshukla12/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ### 🎮 Play a Game While You’re Here!
-
 <p align="center">
   <a href="https://chromedino.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/aviralshukla12/aviralshukla12/main/assets/dino-thumbnail.gif" width="400" alt="Click to play Dino Game"/>
   </a>
 </p>
 
-<p align="center">
-  ⬆️ Click the picture above to play the classic Chrome Dino Game — online anywhere, anytime!  
-</p>
-
 ---
 
 ### 🤝 Let’s Connect
-- LinkedIn: [Aviral Shukla](https://www.linkedin.com/in/aviral-shukla-)
+- LinkedIn: [Aviral Shukla](https://www.linkedin.com/in/aviral-shukla-)  
+- GitHub: [aviralshukla12](https://github.com/aviralshukla12)  
 - Email: [avirals248@gmail.com](mailto:avirals248@gmail.com)  
