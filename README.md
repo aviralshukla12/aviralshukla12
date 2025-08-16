@@ -10,7 +10,7 @@
 
 ---
 
-### ⌨️ Fun Typing Effect
+### ⌨️ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Fullstack+Developer;GenAI+Builder;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
@@ -95,10 +95,18 @@
 - ☁️ IaC with Terraform modules (VPC, EKS, RDS)
 - 📚 GenAI: LangChain agents, prompt engineering, RAG
 
----
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/aviralshukla12/aviralshukla12/output/github-contribution-grid-snake-dark.svg)
+
+### 🎮 Play a Game While You’re Here!
+<p align="center">
+  <a href="https://dinosaurgame.net/" target="_blank">
+    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Click to play Dino Game"/>
+  </a>
+</p>
+
+<p align="center">
+  ⬆️ Click the picture above to play the classic Chrome Dino Game 🦖  
+</p>
 
 ---
 
